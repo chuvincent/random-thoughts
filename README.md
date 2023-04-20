@@ -18,7 +18,7 @@ People who care about their craft, their product and the organization they work 
 # Growing with experience 
 While throughout my career I've always taken on software development roles (either as an individual contributor or a leader), I have worked in a handful of different industries and disciplines.  
 
-15 years ago I worked on biomedical imaging, when it was a relatively new field.  And at Electronic Arts, I worked on gameplay and animation for various console game titles, including FIFA.  And at Apple, I worked on MS Office compatibility and icloud.com.  For 7 years, I worked at a company called Visier.  Visier is a SaaS People Analytics company, and the platform provides data driven insights to different aspects of a workforce - from recruiting to compensation, or performance management and turnover.  Most recently, I worked at Later.com and learned a lot a out social media marketing.
+15 years ago I worked on biomedical imaging, when it was a relatively new field.  And at Electronic Arts, I worked on gameplay and animation for various console game titles, including FIFA.  And at Apple, I worked on MS Office compatibility and icloud.com.  For 7 years, I worked at a company called Visier.  Visier is a SaaS People Analytics company, and the platform provides data driven insights to different aspects of a workforce - from recruiting to compensation, or performance management and turnover.  Most recently, I worked at Later.com and learned a lot about social media marketing.
 
 I believe it’s crucial to stay curious and keep learning.  The marketing agencies space is yet another new area to me.  I look forward to having a deeper understanding of the users, their pain points, and how to help them with their businesses.
 
