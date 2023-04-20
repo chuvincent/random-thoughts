@@ -15,17 +15,23 @@ Likewise, I appreciate efforts others put in towards their projects professional
 # Growing with experience 
 While throughout my career I've always taken on software development roles (either as an individual contributor or a leader), I have worked in a handful of different industries and disciplines.  
 
-15 years ago I worked on biomedical imaging, when it was a relatively new field.  And at Electronic Arts, I worked on gameplay and animation for various console game titles, including FIFA.  And at Apple, I worked on MS Office compatibility and icloud.com.  In the last 7 years, I worked at a company called Visier.  Visier is a SaaS People Analytics company, and the platform provides data driven insights to different aspects of a workforce - from recruiting to compensation, or performance management and turnover.  
+15 years ago I worked on biomedical imaging, when it was a relatively new field.  And at Electronic Arts, I worked on gameplay and animation for various console game titles, including FIFA.  And at Apple, I worked on MS Office compatibility and icloud.com.  For 7 years, I worked at a company called Visier.  Visier is a SaaS People Analytics company, and the platform provides data driven insights to different aspects of a workforce - from recruiting to compensation, or performance management and turnover.  Most recently, I worked at Later.com and learned a lot a out social media marketing.
 
-I believe it’s crucial to stay curious and keep learning.  The social media and marketing space is yet another new area to me.  I look forward to having a deeper understanding of the users, their pain points, and how to help them with their businesses.
+I believe it’s crucial to stay curious and keep learning.  The marketing agencies space is yet another new area to me.  I look forward to having a deeper understanding of the users, their pain points, and how to help them with their businesses.
 
 I value the diversity of thoughts and appreciate inputs from individuals from different disciplines.  I learned from my experience the importance of bringing unique perspectives to the table and I don’t want to be “the smartest person in the room”. 
-Having the right tools and environment
 
+# Fairness and transparency
+Working at Later.com taught me the importance of being fair and transparent in everything we do.  As much as I'd like to think that those have always been my core values, reading the read.me from 18 months ago shows me that in fact
+ I picked them up from working at Later.com.  When every team member knows that they are being evaluated the same way (fairness in process) using the same rubric that everyone has access to (transparency in standards), they can focus their energy in contributing to the business - instead of constantly 
+negotating, second-guessing or playing politics.
+
+# Having the right tools and environment
 I’m not a big fan of doing the same tasks multiple times, and that’s what got me into programming in the first place.  At a young age, instead of practising pianos like my parents asked me to, I wrote code to have the computer play the music.  This focus on efficiency and automation carries through into my professional life.  I believe having the right tools and processes is the first step in running a high performing team - saving the teams 20% time is the difference between working all weekends every weekend and working reasonable hours.  Reducing toil and improving development experience are two areas that I believe worth investing in, and they often pay good dividends right away.
 
-## Servicing as a leader
+# Servicing as a leader
 I believe in servant leadership, and I believe leaders should “eat last”.  I’m committed to be available and responsive to the teams I lead.  I aim to create a motivating environment where team members can find autonomy with their time, mastery of their craft, and purpose for their work. 
 
 I come to meetings prepared, and I demonstrate efforts and due diligence were put into my work.  I’m curious what others have to say and I’m willing to share ideas openly.  I hope you will reciprocate when we have the chance to work together and interact.
+
 Thank you for reading this “Pull Request”!
