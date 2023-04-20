@@ -10,7 +10,10 @@ Knowing multiple languages actually helps in surprising ways - you learn how to 
 
 # Working hard matters
 I went to Simon Fraser University in Burnaby British Columbia for my CS degree.  I’m a nerd and during university years I was fortunate enough to be able to focus my energy in studying.  I received a Governor General’s Silver Medal in Academics.  I don't think I'm particularly smart, but I do have good work ethics.  
-Likewise, I appreciate efforts others put in towards their projects professionally.  I'm not suggesting putting in more work hours than one is compensated for.  However, in order to gain mastery in an area, I believe it takes time.  People who care about their craft, their product and the organization they work for, in general, behave very differently - they share ideas that are thoughtful, they produce work that delight, and they progress well in their career accordingly.
+
+Likewise, I appreciate efforts others put in towards their projects professionally.  I'm not suggesting putting in more work hours than one is compensated for.  However, in order to gain mastery in an area, I believe it takes time.  
+
+People who care about their craft, their product and the organization they work for, in general, behave very differently - they share ideas that are thoughtful, they produce work that delight, and they progress well in their career accordingly.
 
 # Growing with experience 
 While throughout my career I've always taken on software development roles (either as an individual contributor or a leader), I have worked in a handful of different industries and disciplines.  
